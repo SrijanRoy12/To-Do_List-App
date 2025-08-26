@@ -1,12 +1,22 @@
-# React + Vite
+# ⏱ Clocklet
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and minimal Pomodoro Timer with task management!
+Stay productive with focus sessions, short breaks, and long breaks — all wrapped in a pixel-inspired design.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⏲ Pomodoro Timer: 25 minutes focus, 5 minutes short break, 15 minutes long break.
 
-## Expanding the ESLint configuration
+✅ Task Manager: Add, track, and complete your tasks.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌸 Cute UI: Pixel-themed background for a cozy vibe.
+
+🔄 Custom Cycles: Assign the number of Pomodoro cycles per task.
+
+📝 Three Sections:
+
+Add Tasks
+
+To-do List
+
+Completed Tasks
